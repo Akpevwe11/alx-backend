@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b7b6ebe-85bf-48d6-b637-2ffdcd1e4102" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x03-queuing_system_in_js/1-redis_op.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03-queuing_system_in_js/2-redis_op_async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.17.0",
+    "javascript.nodejs.core.library.typings.version": "20.16.2",
     "last_opened_file_path": "/Users/praise/Sites/alx-backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724845537257</updated>
       <workItem from="1724845538938" duration="2748000" />
-      <workItem from="1724851808369" duration="2009000" />
+      <workItem from="1724851808369" duration="2896000" />
     </task>
     <servers />
   </component>
